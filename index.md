@@ -29,10 +29,12 @@ it will let me to work on the same relationship.
 
 **以上列举的方式方法不是独立存在的，而是综合运用的。**一款游戏的生产过程往往夹杂着诸多的思想。无论我们从哪方面考虑进行创新设计，本质上考虑用户的体验才是关键。
 
+![image](https://github.com/JiangNanU-Java/Image-Processing/blob/master/ImagePigmentation/IMGP8080.JPG)
+
 #### 创新的举例
 在2012年左右出现的回合游戏基本都用如下的战斗方式，参战双方各出5个棋子，分布在自身阵营的9个格子里面按照速度优先顺序出手进行战斗。
 2010年12月发布的《傲视天地》首先采用了这种战斗模式，那里的核心架构还是策略类。
-![](https://upload-images.jianshu.io/upload_images/2917526-00893436bed4f70f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/2917526-00893436bed4f70f.png)
 以下是2011年5月发布的爆款游戏《神仙道》的游戏截图，改变了文化风格，并且偏向了养成类。
 ![](https://upload-images.jianshu.io/upload_images/2917526-20d18c7f99ee7197.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 2011年11月发布的游戏《龙将》在核心玩法上没做多少变化，在节奏和文化包装上做了变化，也取得了丰厚的回报。
