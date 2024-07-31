@@ -9,6 +9,13 @@ it will let me to work on the same relationship.
 今天所有的这一切。
 如何添加图片呢？
 
+garden
+html style
+<img src="/images/garden.jpg"/>
+
+markdown style
+![](/images/garden.jpg)
+
 *粗体*
 **粗体**
 
