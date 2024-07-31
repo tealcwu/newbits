@@ -29,7 +29,7 @@ it will let me to work on the same relationship.
 
 **以上列举的方式方法不是独立存在的，而是综合运用的。**一款游戏的生产过程往往夹杂着诸多的思想。无论我们从哪方面考虑进行创新设计，本质上考虑用户的体验才是关键。
 
-![image](https://github.com/JiangNanU-Java/Image-Processing/blob/master/ImagePigmentation/IMGP8080.JPG)
+![](https://img2018.cnblogs.com/blog/765168/201910/765168-20191021182044854-1033115515.png)
 
 #### 创新的举例
 在2012年左右出现的回合游戏基本都用如下的战斗方式，参战双方各出5个棋子，分布在自身阵营的9个格子里面按照速度优先顺序出手进行战斗。
